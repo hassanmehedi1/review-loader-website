@@ -7,7 +7,7 @@ const Header = () => {
      <div className="sticky top-0 bg-white px-12 py-8 flex justify-center md:justify-between">
        <div className="hidden md:block">
          <Link
-           className="font-sans font-semibold text-2xl text-blue-400"
+           className="font-mono font-semibold text-4xl text-violet-600"
            to="/">
               Review Loader
            </Link>

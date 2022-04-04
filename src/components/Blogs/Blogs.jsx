@@ -8,7 +8,7 @@ const Blogs = () => {
            <p class="mt-10 mb-3 font-semibold text-xl text-gray-900">
              What is Context API?
            </p>
-           <p class="text-gray-600">
+           <p class="text-gray-700">
              Context API is a kind of new feature in React that allows us to
              share state throughout your whole project quickly and easily or
              portion of it. Let's have a look at how we can use it. For React,
@@ -29,7 +29,7 @@ const Blogs = () => {
            <p class="mt-10 mb-3 text-xl font-semibold text-gray-900">
              What is Semantic tag?
            </p>
-           <p class="text-gray-600">
+           <p class="text-gray-700">
              In HTML, we frequently come across the jargon word semantic. Here,
              I'll explain what semantic is and how it's utilized in HTML. So,
              first and foremost, let's define what a semantic word is. Semantic
@@ -52,10 +52,10 @@ const Blogs = () => {
              pages. It also makes website navigating easier for assistive
              technology.
            </p>
-           <p class="mt-10 mb-3 font-semibold text-gray-900">
+           <p class="mt-10 mb-3 text-xl font-semibold text-gray-900">
              Difference between Inline and block elements?
            </p>
-           <p class="text-gray-600">
+           <p class="text-gray-700">
              Block Elements: Block Elements always start on a new line and take
              up the full width available on the web page. Inline elements do not
              start from a new line. You can not set width or height values for
