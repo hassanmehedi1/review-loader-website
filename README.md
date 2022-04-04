@@ -3,7 +3,7 @@
 
 ### Total Pages
 * Home
-  * holds max 3 reviews
+  * Holds max 3 reviews
 * Reviews
   * Total 6 reviews
 * Dashboard
@@ -13,12 +13,12 @@
     * Radar Chart
     * Radial Bar Chart
 * Blogs
-   *3 questions answered
+   * 3 Questions Answered
 * About
 
 ### References Used
-* json generator
-* freepik
-* react router
-* recharts
-* stack overflow
+* Json Generator
+* Freepik
+* React Router
+* Recharts
+* Stack overflow
