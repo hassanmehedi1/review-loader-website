@@ -45,7 +45,7 @@ const Home = () => {
            ))}
          </div>
          <div>
-           <Link className="text-xl font-semibold border-2 border-blue-500 flex place-content-center bg-white-400 text-green-600" to="/reviews">
+           <Link className="text-xl font-semibold border-2 border-blue-500 flex place-content-center bg-white-400 text-green-600 rounded-md" to="/reviews">
              See All Reviews
            </Link>
          </div>
