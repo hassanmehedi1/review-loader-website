@@ -57,15 +57,27 @@ const Blogs = () => {
            </p>
            <p class="text-gray-600">
              Block Elements: Block Elements always start on a new line and take
-             up the full width available on the web page. It spans out to the
-             right and to the left as far as possible and blocks out any other
-             element from sitting next to it. Some of the common block elements
-             include div, p, h1 to h6, forms etc.
+             up the full width available on the web page. Inline elements do not
+             start from a new line. You can not set width or height values for
+             them. Even if you set a value, it won't have any effect. It spans
+             out to the right and to the left as far as possible and blocks out
+             any other element from sitting next to it. Block elements always
+             start from a new line. They take up the whole space available to
+             them. You can set their width and height. Some of the common block
+             elements include div, p, h1 to h6, forms etc.
              <p>
                Inline Elements: Inline elements start on the same line and only
                take the amount of width required to display the content of the
-               element. It allows other elements to sit next to it. Some of the
-               common inline elements include span, img, a, em etc
+               element. Inline elements do not start from a new line. You can
+               not set width or height values for them. Even if you set a value,
+               it won't have any effect. It allows other elements to sit next to
+               it. Some of the common inline elements include span, img, a, em
+               etc
+             </p>
+             <p>
+               Inline Block: These elements are formatted just like inline, but
+               you can set their width and height, similar to block. Examples:
+               button, select
              </p>
            </p>
          </div>
