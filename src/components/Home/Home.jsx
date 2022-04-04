@@ -38,7 +38,7 @@ const Home = () => {
        <br />
        <br />
        <div className="grid place-content-center">
-         <h1 className="text-5xl font-semibold">Customer Reviews(3)</h1>
+         <h1 className="text-5xl font-semibold">Customer Reviews (3)</h1>
          <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:-mx-40">
            {reviews.slice(0, 3).map((review) => (
              <Review key={review.id} review={review}></Review>
