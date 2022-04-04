@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "img": "https://img.freepik.com/free-photo/handsome-man-white-shirt-posing-attractive-guy-with-fashion-hairstyle-confident-man-with-short-beard-adult-boy-with-brown-hair-closeup-portrait_186202-8545.jpg?size=338&ext=jpg",
+    "name": "Nellie Logan",
+    "about": "I've used this product for nearly one year and I am pretty much satisfied with it. i would recommend it moderate level photo and cinematographers",
+    "rating": "7/10"
+  },
+  {
+    "id": "2",
+    "img": "https://img.freepik.com/free-photo/man-points-fingers-up-recommends-something-says-click-link-wears-checkered-shirt-isolated-white-follow-this-direction_273609-56370.jpg?size=338&ext=jpg",
+    "name": "Blake Turner",
+    "about": "Definitely a must buy product if you love photography. Everything is perfect about it but the price is a negative rating",
+    "rating": "8/10"
+  },
+  {
+    "id": "3",
+    "img": "https://img.freepik.com/free-photo/smiling-little-boy-face-portrait-close-up_53876-153276.jpg?size=338&ext=jpg",
+    "name": "Carol Warner",
+    "about": "I love making vlogs and I also have a youtube channel, so I was searching for a perfect camera for this purpose & I think I have got my desired product after purchasing",
+    "rating": "9/10"
+  },
+  {
+    "id": "4",
+    "img": "https://img.freepik.com/free-photo/portrait-old-man-with-beard_144627-1201.jpg?size=338&ext=jpg",
+    "name": "Travis Walters",
+    "about": "Great images, but quickly broke after a minor drop. Image quality deserves al least 4 stars, build quality deserves a 1 star.",
+    "rating": "5/10"
+  },
+  {
+    "id": "5",
+    "img": "https://img.freepik.com/free-photo/worldface-thai-woman-white-background_53876-146193.jpg?size=338&ext=jpg",
+    "name": "Ursula Lindsey",
+    "about": "the camera is amazing and i absolutely love it. but when a thousand dollars camera does not come with a battery charger, it gives you a cheap feeling.",
+    "rating": "4/10"
+  },
+  {
+    "id": "6",
+    "img": "https://img.freepik.com/free-photo/portrait-thai-woman_53876-146318.jpg?size=338&ext=jpg",
+    "name": "Barlow Vaughan",
+    "about": "Great product! Camera condition is on top! :) Really happy for my purchase!",
+    "rating": "10/10"
+  }
+]
